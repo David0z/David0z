@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Dawid and I'm a beginner frontend developer
+#Hi there 👋
+## My name is Dawid and I'm a beginner frontend developer
 
 - 🔭 I’m currently working on a puns game
 - 🌱 I’m currently learning Canvas API + MERN stack
