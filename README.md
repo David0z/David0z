@@ -1,4 +1,4 @@
-#Hi there 👋
+# Hi there 👋
 ## My name is Dawid and I'm a beginner frontend developer
 
 - 🔭 I’m currently working on a puns game
