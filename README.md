@@ -32,8 +32,6 @@
 </p>
 
 ## Stats:
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=david0z&show_icons=true&locale=en&layout=compact" alt="david0z" /></p>
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=david0z&show_icons=true&locale=en" alt="david0z" /></span>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=david0z&show_icons=true&locale=en&layout=compact" alt="david0z" /><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=david0z&show_icons=true&locale=en" alt="david0z" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david0z&label=Profile%20views&color=0e75b6&style=flat" alt="david0z" /> </p>
